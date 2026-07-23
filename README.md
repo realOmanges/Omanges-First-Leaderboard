@@ -43,7 +43,7 @@ It tracks each viewer’s total wins, records the winner for each stream date, s
 
 ### 1. Download the Extension
 
-Download the latest `.sb` file from the [`releases`](releases/) folder in this repository.
+Download the latest `.sb` file from the [GitHub Releases page](https://github.com/realOmanges/Omanges-First-Leaderboard/releases/latest).
 
 ### 2. Import into Streamer.bot
 
